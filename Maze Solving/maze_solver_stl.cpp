@@ -20,7 +20,7 @@ char path[h][w] = {
 vector<dbl> stack;
 bool has(vector<dbl> vec, dbl elem){
     for(auto el = vec.begin(); el != vec.end(); ++el){
-        if(el->first==elem.first and el->second==elem.second){
+        if(el->first==elem.first && el->second==elem.second){
             return true;
         }
     }
