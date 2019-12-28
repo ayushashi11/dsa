@@ -6,7 +6,10 @@
                 "${workspaceFolder}/**",
                 "D:/Games/Mingw/lib/gcc/mingw32/6.3.0/include/c++",
                 "D:/Games/Mingw/lib/gcc/mingw32/6.3.0/include/c++/mingw32",
-                "D:/Games/Mingw/include"
+                "D:/Games/Mingw/lib/gcc/mingw32/6.3.0/include/c++/backward",
+                "D:/Games/Mingw/lib/gcc/mingw32/6.3.0/include",
+                "D:/Games/Mingw/include",
+                "D:/Games/Mingw/lib/gcc/mingw32/6.3.0/include-fixed"
             ],
             "defines": [
                 "_DEBUG",
@@ -17,6 +20,32 @@
             "compilerPath": "D:/Games/Mingw/bin/g++.exe",
             "cppStandard": "c++17",
             "cStandard": "c11"
+        },
+        {
+            "name": "conf",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "intelliSenseMode": "msvc-x64",
+            "compilerPath": "D:/Games/cygwin/bin/gcc.exe"
+        },
+        {
+            "name": "conf",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "intelliSenseMode": "msvc-x64",
+            "compilerPath": "D:/Games/Mingw/bin/gcc.exe"
         }
     ],
     "version": 4
