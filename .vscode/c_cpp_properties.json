@@ -16,8 +16,7 @@
                 "UNICODE",
                 "_UNICODE"
             ],
-            "intelliSenseMode": "gcc-x86",
-            "compilerPath": "D:/Games/Mingw/bin/g++.exe",
+            "intelliSenseMode": "gcc-x64",
             "cppStandard": "c++17",
             "cStandard": "c11"
         },
@@ -31,8 +30,7 @@
                 "UNICODE",
                 "_UNICODE"
             ],
-            "intelliSenseMode": "msvc-x64",
-            "compilerPath": "D:/Games/cygwin/bin/gcc.exe"
+            "intelliSenseMode": "msvc-x64"
         },
         {
             "name": "conf",
