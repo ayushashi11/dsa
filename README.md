@@ -1,1 +1,2 @@
 # dsa
+Compendium of algorithms
