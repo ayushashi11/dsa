@@ -3,3 +3,7 @@ target/**
 *.hi
 *.o
 Cargo.lock
+
+# Added by cargo
+
+/target

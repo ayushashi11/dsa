@@ -21,6 +21,9 @@ fn balance<T:Clone>(t: Tree<T>) -> i64{
         0
     }
 }
+
+
+
 fn main() {
     let t = Node(
         1,

@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "binary tree",
+    "sorting_algos",
+    "Linked List"
+]

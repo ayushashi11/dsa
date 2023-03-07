@@ -1,5 +1,6 @@
 #include<iostream>
-struct Node{
+class Node{
+	public:
 	int dat;
 	Node* next=NULL;
 	Node(){}
